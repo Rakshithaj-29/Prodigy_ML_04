@@ -21,6 +21,11 @@ Matplotlib
 scikit-learn  
 Jupyter Notebook  
 
+## Note
+This project was developed by Rakshitha Kumari J as part of the Prodigy Info Tech Machine Learning Virtual Internship.
+
+-Rakshitha Kumari J
+
 
 ## Special thanks to Prodigy Info Tech for the internship opportunity
 #ProdigyInfoTech
